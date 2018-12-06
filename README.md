@@ -21,4 +21,6 @@ Now, I know you're on the edge of your seat ready to play this game! No worries,
 
 ## Have Fun!
 ----------------------------------------------
+You can always play this game in your web browser [HERE](https://alianza-clyne.github.io/FEND-classic-arcade-game-clone/).
+
 Have a blast, but don't hurt yourself now--I like to remain lawsuit-free!
